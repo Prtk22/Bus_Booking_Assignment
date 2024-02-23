@@ -1,0 +1,57 @@
+[
+  {
+      "id": "0",
+      "ville": "Dhanbad",
+      "region": "5"
+  },
+  {
+      "id": "1",
+      "ville": "Ranchi",
+      "region": "9"
+  },
+  {
+      "id": "2",
+      "ville": "Tatanagar",
+      "region": "8"
+  },
+  {
+      "id": "3",
+      "ville": "Jasidih",
+      "region": "5"
+  },
+  {
+      "id": "4",
+      "ville": "Koderma",
+      "region": "9"
+  },
+  {
+      "id": "5",
+      "ville": "Patna",
+      "region": "3"
+  },
+  {
+      "id": "6",
+      "ville": "Katrasgarh",
+      "region": "2"
+  },
+  {
+      "id": "7",
+      "ville": "Purnia",
+      "region": "4"
+  },
+  {
+      "id": "8",
+      "ville": "Katihar",
+      "region": "3"
+  },
+  {
+      "id": "9",
+      "ville": "Gaya",
+      "region": "7"
+  },
+  {
+      "id": "10",
+      "ville": "Asansol",
+      "region": "1"
+  }
+]
